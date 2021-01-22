@@ -6,5 +6,8 @@ Visit [the repo](https://github.com/slobich/test-update-checker).
 
 == Changelog ==
 
+= 2.0 =
+* Second Release.
+
 = 1.0 =
 * First Release.
