@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Test Update Checker
  * Description: Test "Plugin Update Checker Library".
- * Version: 2.0
+ * Version: 3.0
  */
 
 defined( 'ABSPATH' ) || exit; // Exit if accessed directly.
