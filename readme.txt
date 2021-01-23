@@ -6,6 +6,9 @@ Visit [the repo](https://github.com/slobich/test-update-checker).
 
 == Changelog ==
 
+= 6.0 =
+* Sixth Release.
+
 = 5.0 =
 * Fifth Release.
 
