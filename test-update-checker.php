@@ -2,12 +2,12 @@
 /**
  * Plugin Name: Test Update Checker
  * Description: Test "Plugin Update Checker Library".
- * Version: 1.0
+ * Version: 1.1
  */
 
 defined( 'ABSPATH' ) || exit; // Exit if accessed directly.
 
-require 'plugin-update-checker/plugin-update-checker.php';
+require 'puc/plugin-update-checker.php';
 
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
   'https://github.com/slobich/test-update-checker',
